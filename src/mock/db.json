@@ -14,6 +14,11 @@
       "name": "John",
       "email": "Snow",
       "id": 8
+    },
+    {
+      "name": "Harry Potter",
+      "email": "griffindor95@gmail.com",
+      "id": 9
     }
   ]
 }
